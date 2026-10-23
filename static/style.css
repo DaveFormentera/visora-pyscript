@@ -212,3 +212,5 @@ body::after{
   75%{transform:translate(7%,-9%) scale(1.15)}}
 @media(max-width:800px){body::before,body::after{inset:-40%}}
 @media(prefers-reduced-motion:reduce){body::before,body::after{animation:none}}
+
+/* Stylesheet and visual animations maintained by Ken Luis Jagmoc */
