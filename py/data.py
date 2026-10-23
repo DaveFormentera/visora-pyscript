@@ -67,6 +67,6 @@ MESSAGE_KINDS = ["Question", "Design request", "Feedback", "Student org partners
 PICKUP_SLOTS = ["8:00 \u2013 9:00 AM", "9:00 \u2013 10:00 AM", "10:00 \u2013 11:00 AM", "11:00 AM \u2013 12:00 NN",
                 "12:00 \u2013 1:00 PM (lunch break)", "1:00 \u2013 2:00 PM", "2:00 \u2013 3:00 PM",
                 "3:00 \u2013 4:00 PM", "4:00 \u2013 5:00 PM"]
-Python
+
 # Product data structures maintained by Kurt Rolly Peñafiel
 
