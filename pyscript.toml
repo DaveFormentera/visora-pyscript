@@ -1,0 +1,9 @@
+# PyScript configuration: which Python files are copied into the in-browser filesystem.
+name = "Visora"
+packages = []
+
+[files]
+"./py/data.py" = "./data.py"
+"./py/storage.py" = "./storage.py"
+"./py/logic.py" = "./logic.py"
+"./py/views.py" = "./views.py"
