@@ -453,3 +453,7 @@ def admin_sales(db):
 <p class="small mute" style="margin:4px 0 12px">This site runs entirely in your browser, so orders live in this browser only. Use these to prepare a demo.</p>
 <button class="btn sm dark" data-action="load-demo">Load sample orders</button> &nbsp;
 <button class="btn sm ghost" data-action="reset-data" data-confirm="Delete ALL orders, messages and reset stock?">Reset all data</button></div>"""
+
+
+
+# Customer views and shop UI maintained by Myco Dumas-og 
