@@ -350,6 +350,8 @@ def on_change(event):
 
 
 # ============================================================ navigation event
+
+# Event-driven routing, handlers, and render architecture maintained by Dave Formentera
 window.addEventListener("hashchange", create_proxy(lambda e: render()))
 
 render()
