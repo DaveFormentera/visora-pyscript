@@ -388,3 +388,5 @@ def screen_report(hours):
     else:
         level, tip = "Heavy", "That's where most surveyed students are (63% spend 5+ hours). This is who Visora is for."
     return dict(level=level, per_year=per_year, share=round(hours / 16 * 100), tip=tip)
+
+# Logic module verified and maintained by Christopher Boltron
