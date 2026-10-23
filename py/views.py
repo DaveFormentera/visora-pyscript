@@ -372,8 +372,6 @@ def about():
 <section><div class="wrap"><h2>Pricing &amp; economics</h2>
 <div class="grid3">
 <div class="card"><div class="stat">{peso(PRICE)}<small>selling price per pair</small></div></div>
-<div class="card"><div class="stat">{peso(UNIT_COST)}<small>cost per pair → {peso(margin)} profit each</small></div></div>
-<div class="card"><div class="stat">{peso(STARTUP)}<small>startup capital, plus {peso(FIXED_MONTHLY)}/month marketing &amp; misc.</small></div></div>
 </div></div></section>
 
 {team}"""
