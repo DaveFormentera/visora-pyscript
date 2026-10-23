@@ -65,21 +65,6 @@ python -m http.server 8000
 # open http://localhost:8000
 ```
 
-## Deploy (GitHub Pages)
-
-1. Push this folder to a **public** GitHub repository.
-2. Repo → **Settings → Pages** → Source: *Deploy from a branch* → `main` / `(root)` → Save.
-3. After about a minute the site is live at `https://<username>.github.io/<repo>/`. Put that link in this README.
-
-## Group workflow (required by the instructor)
-
-- Add every member under **Settings → Collaborators**.
-- Each member works on their own branch / files and **commits their own part** with meaningful messages
-  (e.g. `Add live referral-code check on checkout`, not `update`). Push regularly.
-- Fill in the GitHub usernames in [`docs/CONTRIBUTIONS.md`](docs/CONTRIBUTIONS.md). The team is listed in `py/data.py` (`TEAM`) and shown on the *Our Business* page.
-- Speaking notes for the video: [`docs/SPEAKING_NOTES.md`](docs/SPEAKING_NOTES.md).
-- Add the video (or its link) to the repo as instructed — see [`docs/VIDEO_SCRIPT.md`](docs/VIDEO_SCRIPT.md).
-
 ## Team
 
 | Member | Part |
